@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**JaxK17/JaxK17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at University College Dublin, currently seeking a software engineering or technology internship.
 
-Here are some ideas to get you started:
+I enjoy learning through practical projects, solving problems and collaborating with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Languages:** Python, Java, C, SQL
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, GitLab, MySQL
+
+## Projects
+- **[BlackBox](https://github.com/JaxK17/BlackBox)** — A Java strategy game developed as part of a university team project.
+
+I'm currently expanding my portfolio with independent software development projects.
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/j-kot/)
